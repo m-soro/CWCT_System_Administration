@@ -1,0 +1,43 @@
+Chapter1: Safety and Professionalism - Objective 4.7
+
+Professional Communication
+Do's: Be on Time, actively listening, clarify customer statements, maintain pos attitude/project confidence, avoid jargon and use plain language, set and meet expectation and communicate status 
+Dont's: be culturally sensitive, use professional titles, avoid distractions, avoid being judgemental, avoid dismissing customers, deal appropriately with sensitive materials, don't argue or be defensive, follow up with customer to verify satisfaction, provide proper documentation of services received, offer different service. 
+
+Phsyical Safety - Objective 4.4
+EMP - Electro Magnetic Pulse, transfer of electro magnetic energy from one source to another that causes damage
+Safety goggles and air filter mask
+
+Three types of EMP:
+Electrostatic discharge (ESD) - it can destroy components
+Electromagnetic Interference (EMI) - an electric motor next to network cables, can cause problems with the transmission, a big magnetic field can wipe off hard drives
+Radio Frequency Interference (RFI) - prevents transmissions, or slow down transmission
+
+Prevent shock to sensitive components using:
+Use antistatic bag
+Disconnect computer before working
+Use Antistatic/ESD mat
+Anti static wrist strap
+
+
+Tools of the trade - Objective 2.8 
+Given a scenario Use appropriate tools
+>Mike has a phone and #2 philip screwdriver
+PC repair toolkits are available, mobile toolkits, volt-ohm meter to test input voltage, always carry thumb drives
+
+
+Troubleshooting theory - Objective 5.1
+Given a scenario, use the best practice methodology to resolve problems
+Always condider corporate policies, procedures, impacts before implementing changes
+Step 1: Identify the problem, Inquire regarding enviornmental or infrastructure changes, review system and application logs
+Step 2: Establish a theory of probable cause(question the obvious)
+Step 3: test the theory to determine the cause, if theory is not confirmed, try another theory, escalate the issue
+Step 4: Establish a plan of action to resolve the problem and implement the solution
+Step 5: Verify full system functionality and if applicable, implement preventative measures, but it could be documentation, new company policy, escalation, can be casual or formal
+Step 6: Document findings, actions and outcomes
+
+**comptia loves troubleshooting theory** need to understand all the steps and the order of them
+
+ 
+
+Chapter2: The visible computer
