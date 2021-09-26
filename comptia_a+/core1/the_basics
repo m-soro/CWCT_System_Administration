@@ -40,4 +40,73 @@ Step 6: Document findings, actions and outcomes
 
  
 
-Chapter2: The visible computer
+Chapter2: The visible computer - Objective 3.6
+Explain the purposes and uses of various peripheral types
+
+* System Unit - Contains the motherboard, CPU, RAM and hard drives; everything other device is a preripheral
+* Monitors and web cameras provide visual output
+* Keyboards, mice and game controllers provide input
+* Printers create paper output
+* Speakers and headsets make audio output
+
+External Connections - Objective 3.2 
+Identify common connector types
+
+Primary PC Components and External Connections
+Universal Serial Bus(USB)
+Network Cable Connection - using the cable RJ45 use for wired network
+Digital Visual Interface(DVI)
+Display Port
+HDMI(High Definition Multimedia Interface)
+
+**Older Ports**
+mini-DIN(PS/2) - keyboards and mice, use by gamers(faster response)
+parallel port (LPT Port) - oldest connector known in PC, used almost exclusively for printers
+serial connector - the oldest connector in PC, original IBM PC in 1979
+Video Graphics Array(VGA) - used by monitors
+
+Its importatnt to know the names and basic functionalisty and shapes
+
+* Maek sure you can recognize all the rear desktop connections, including USB, network, power, video and audio
+* Befamiliar with common front desktop connections
+* Make sure you can identify common connections on laptops
+
+
+
+Inside the PC - Objective 3.5 
+Given a scenario, install and configure motherboards, CPUs and add-on cards
+
+The montherboard is the primary device where we connect all the innards of the system unit together, RAM, CPU, hard drive
+
+Quick Review
+* Recognize the position and shape of power supplies and video cards
+* Be familiar with the parts of the motherboard
+* Make sure you can recognize the function core components: RAM sticks, CPU, M.2 SSDs, and hard drives
+* Understand the function of expansion slots
+
+
+What is a Computer? - Objective 3.5 
+Given a scenario, install and configure motherboards, CPUs, and add-on cards
+
+Quick Review
+* A commuter gets work or play done
+* A computer has a CPU, RAM, mass storage and an operating system
+* Laptops, mobile devices, and Internet of Things(IoT) devices are all computers
+
+What is an operating system? - Objective 1.1
+Compare and contrast common operating system types and their purposes
+
+Kernal - built in to operating system is the core part of the oS which handles the memory management
+When a program starts to run its a *'process'*
+
+Operating Systems deals with Hardware using device drivers
+Storage - files and folders
+Networking
+
+Quick Review 
+* An operating system controls all the programs on a computer
+* The core of an operating system is the kernel
+* Running programs are called processes
+* Operating systems use device drivers to talk to hardware
+
+
