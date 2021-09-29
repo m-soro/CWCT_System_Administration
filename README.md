@@ -21,7 +21,7 @@
 ## Course Descriptions
 
 ## CWCT100 
-**CompTIA A+** This course covers the fundamental knowledge and skills and develop trainee’s ability to perform essential IT tasks as a computer support professional. Topics include mobile and external devices, hardware and software, network and security basics, Windows OS and other OSs, skills on system installation, configuration, diagnosing, maintenance, as well as the fundamentals of cloud computing and operational procedures. Through the completion of the course, the trainees are expected to be able to install and configure different OSs and the basic network, troubleshoot and problem solve core services, implement basic data storage and backup solutions, and provide support to PC services. CWCT100 is a CWCT core course required for all of the three training track programs.
+**[CompTIA A+](#)** This course covers the fundamental knowledge and skills and develop trainee’s ability to perform essential IT tasks as a computer support professional. Topics include mobile and external devices, hardware and software, network and security basics, Windows OS and other OSs, skills on system installation, configuration, diagnosing, maintenance, as well as the fundamentals of cloud computing and operational procedures. Through the completion of the course, the trainees are expected to be able to install and configure different OSs and the basic network, troubleshoot and problem solve core services, implement basic data storage and backup solutions, and provide support to PC services. CWCT100 is a CWCT core course required for all of the three training track programs.
 [:top:](#program-requirements)
 
 ## CWCT105 
