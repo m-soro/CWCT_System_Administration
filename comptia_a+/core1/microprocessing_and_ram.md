@@ -140,7 +140,72 @@ RGB lights optional
 * Make sure you have the right socket and speed for your motherboard
 * Always use thermal paste between the CPU and the fan
 * Make sure to power the fan onto your motherboard
-* 
+
+### Liquid Cooling
+1. Overclock
+2. Less noisy - OEM fan designed to take on more heat, or bigger fan(slower == quieter)
+
+
+#### Quick Review
+* Third party fans asre often more efficient than OEM fans
+* Liquid cooling uses a pump, a radiator and a cooling clock with liquid to remove heat
+* Liquid cooling reduces fan noise
+
+### RAM Technology - Objective 3.3 
+> Given a scenario, install RAM types
+* SDRAM - synchronous data ram, that have two notches, speed is dependent on cpu, 168 pins
+* DDR SDRAM - double data rate 184 pins
+* DDR2 - cover, 240 pins, sets the standard, long lifespan, has offset
+* DDR3 - has offset
+* DDR4 - has offset, fastest ram in comptiaA+ exam
+
+#### Quick Review
+* Different motherboards support a specific RAM technology
+* The technologies on the exam are DDR, DDR2, DDR3 and DDR4
+* We measure RAM speeds using DDR or PC ratings
+* Multiply a DDR speed by eiight to get the PC speed
+
+### RAM Capacity
+* RAM is a square
+* double sided and single sided - double is more common, look at the motherboard book to make sure
+* channels - dual channel memory is common, motherboard decides - make sure RAM is identical 
+* RAM is sold in pairs
+
+#### Quick Review
+* Every stick of RAM has a specific capacity
+* RAM comes in a single or double-sided versions
+* RAM uses channels which requires RAM sticks to fill the channel
+* RAM should be identical capacity in the same channel
+
+### RAM Features
+* **Parity vs ECC** - Error correction RAM, parity is a little older
+* parity - 1 bad / ECC - 2 bad
+* Some motherboards requires ECC
+
+**SO DIMMS**
+* for laptaps, smaller size 
+
+SPD chip - allows system to query the RAM chip
+
+#### Quick Review
+* Parity and ECC RAM contain extra chips to check for RAM errors
+* ECC RAM is only for motherboards that support it
+* SO DIMMS are for smaller spaces
+* Almost all RAM has an SPD chip that stores information about the RAM stick
+* Tools like CPU-Z read SPD information
+
+### Installing RAM
+* Check motherboard book
+* if not all the RAM is there re install it again, coulbe be a problem with the channel
+
+#### Quick Review
+* Use the motherboard book to make sure you're installing the right capacity and RAM speed
+* Line up the notch and drop the RAM straight into the slot
+* Watch when the systme boots to verify the system sees the installed RAM
+* Make sure RAM is fully installed and channels are properly filled
+
+
+
 
 
 
