@@ -46,3 +46,66 @@ System Set up - use to change the changeable part of BIOS hold `delete` or `F2 k
 * UEFI replaces traditional 16-bit BIOS in modern systems
 * The System Setup enables custom information about changeable devices
 * System Setup enables changes to CPU frequencies, RAM timings, BIOS passwords, boot options, and more
+
+### Troubleshooting Firmware
+
+Real Time Clock (RTC) -  
+Read Only Memmory(ROM) -  
+CMOS Battery - the last back up, if not battery, you will lose your time or the time will slow down, if the battery dies, all the system information that you updated will disappear. Just snap in a new battery.  
+
+**Flashing the ROM updates the firmware on flash chip** Flashing means that you're going to update all the firmware on that flashchip thats on that montherboard *very dangerous* make sure you don't run out of power - good power, make sure you get a complete copy of Flash update (Bios Flash image)
+
+#### Quick Review
+* The real-time clock battery keeps system time without external power
+* The System Steup allows for changes; exit without saving is an option
+* Rest System Setup for defaults
+* Flash the ROM chip to update firmware
+
+### Motherboards - Form Factor
+**I/O area** - 
+
+A+ exam will define 4 specific form factor
+
+1. ATX - biggest common form factor 12 x 9.6 in, its been around for a while 20 years standard size.
+2. microATX - 9.6x9.6
+3. Mini ITX - smallest form factor
+4. ITX - larger version of Mini ITX  
+
+ATX is most common. 
+I/O shield - are standard size
+
+#### Quick Review
+* Motherboards and cases follow standardized form factores
+* Common form factors: ATX, microATX, Mini-ITX
+* Power supplies offer standardized connectors
+
+### Motherboards - Chipsets
+
+Northbridge, Southbridge - designed to work together.
+**Northbridge** - interacts with the CPU, the memory, high spped 
+**Southbridge** - handles the connection slower stuff
+
+Over time this changes - modern CPU takes over the Northbridge function, now its just southbridge and CPU
+
+Its the chipset that defines all of the peripherals. 
+
+#### Quick Review
+* Chipsets combine functions from many single-function chips
+* Early chipsets offered Northbridge and Southbridge
+* Modern chipsets feature Southbridge(CPU handles Northbridge functions)
+* Chipsets define RAM capacity, USB capabilities, and much more
+
+### Touring the Motherboard
+
+Objective Term
+SATA cables - use to connect harddrives
+SATA HDD connectors - 
+volatge regulators and capacitors - breaks voltage to different voltages, they bubble up or expand when shut.
+pcie expansion slot
+
+pcie - is a type of expansion bus which uses serial conncetions, it received data one wire then sends data one one wire
+
+
+
+
+
