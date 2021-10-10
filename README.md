@@ -8,15 +8,15 @@
 
 ## Program Requirements
 
-| CWCT REQUIRED CORE                                | THREE COURSES     |
-|---------------------------------------------------|-------------------|
-| [CWCT100 – CompTIA A+](#CWCT100)                  | 45 Hours          |
-| [CWCT105 – CompTIA Security+](#CWCT105)           | 45 Hours          |
-| [CWCT115 – Cisco CyberOps](#CWCT115)              | 45 Hours          |
-| **CWCT System Administration Track**              | **Three Courses** |
-| [CWCT116 – Linux System Administration](#CWCT116) | 45 Hours          |
-| [CWCT225 – Ethical Hacking](#CWCT225)             | 45 Hours          |
-| [CWCT230 – Cloud System Administration](#CWCT230) | 45 Hours          |
+| CWCT REQUIRED CORE                                | THREE COURSES     | CERTIFICATION                                                       |
+|---------------------------------------------------|-------------------|---------------------------------------------------------------------|
+| [CWCT100 – CompTIA A+](#CWCT100)                  | 45 Hours          | CompTIA A+                                                          |
+| [CWCT105 – CompTIA Security+](#CWCT105)           | 45 Hours          | RHCSA - Red Hat Certified System Administrator  *or* CompTIA Linux+ |
+| [CWCT115 – Cisco CyberOps](#CWCT115)              | 45 Hours          | CompTIA Security+                                                   |
+|        **CWCT System Administration Track**       | **Three Courses** |                                                                     |
+| [CWCT116 – Linux System Administration](#CWCT116) | 45 Hours          | Cisco CyberOPs Associate                                            |
+| [CWCT225 – Ethical Hacking](#CWCT225)             | 45 Hours          | EC-Council CEH                                                      |
+| [CWCT230 – Cloud System Administration](#CWCT230) | 45 Hours          | N/A                                                                 |
 
 ## [More Info](https://www.caecommunity.org/sites/default/files/Purdue%20Northwest%20AI-Cybersecurity%20Workforce%2012_1_20.pdf)
 
