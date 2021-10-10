@@ -18,6 +18,8 @@
 | [CWCT225 – Ethical Hacking](#CWCT225)             | 45 Hours          |
 | [CWCT230 – Cloud System Administration](#CWCT230) | 45 Hours          |
 
+## [More Info](https://www.caecommunity.org/sites/default/files/Purdue%20Northwest%20AI-Cybersecurity%20Workforce%2012_1_20.pdf)
+
 ## Course Descriptions
 
 ## CWCT100 
