@@ -79,7 +79,7 @@ I/O shield - are standard size
 * Common form factors: ATX, microATX, Mini-ITX
 * Power supplies offer standardized connectors
 
-### Motherboards - Chipsets
+### 2. Motherboards - Chipsets
 
 Northbridge, Southbridge - designed to work together.
 **Northbridge** - interacts with the CPU, the memory, high spped 
@@ -104,6 +104,61 @@ volatge regulators and capacitors - breaks voltage to different voltages, they b
 pcie expansion slot
 
 pcie - is a type of expansion bus which uses serial conncetions, it received data one wire then sends data one one wire
+pci - before pcie
+parallel vs. serial 
+x16
+1 x
+4-lane pcie
+
+#### Quick Review
+* The motherboard manual provides essential setup information
+* Montherboards come with cables, standard connectors and more
+* PCIe is the most common expansion bus, it offers multiple lanes
+
+### Touring the Case
+Tower Case
+Screw - Standout
+Cable Manaagement
+
+#### Quick Review
+* Cases offer standardized standouts for mounting various motherboard form factors
+* Better cases offer cable management features
+* Pick a case that has support for number and type of drives needed
+
+### Intsalling Motherboard - Objective 1.1
+>Given a scenario, install and configure motherboards, CPUs and ...
+
+* fan connectors are either 3 or 4 pin
+
+#### Quick Review
+* Install and test CPU and RAM on motherboard before putting in case
+* Install I/O shield and triple check standout positions
+* Mount motherboard and connect motherbaord cables
+* Use the motherboard manual if neccessary
+
+### 3. Power Supply - Objective 3.7
+> Summarize power supply types and features
+
+### Electricity Basics
+
+Think of voltage like water pressure
+The volumetric amount of water is the same as amperage in electricity
+
+`volts x amps = watts`
+
+Current - the way the electricity flows
+Direct current is terrible over distances, what may start as 1000v could be reduced to 500 volts over distances
+Alternating current - US standard 115 volts AC, 60Hz cycles back and forth 60 times a second
+
+Circuit tester
+
+#### Quick Review
+* Voltage = pressure; amount of flow = amperage; V * A = Watts (work)
+* DC = electrons move in same direction; AC = electrons move backa nd forth
+* Use circuit tester (or multimeter) to test AC from the wall outlet
+
+### The Power Supply
+
 
 
 
