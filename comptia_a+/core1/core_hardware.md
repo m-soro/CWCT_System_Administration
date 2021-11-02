@@ -159,6 +159,125 @@ Circuit tester
 
 ### The Power Supply
 
+ATX power connector to motherboards
+
+**3 main types of power**
+1. 12v - yellow
+2. 5v - red
+3. 3.3 v - orange
+
+**ATX 12V** - more power to motherboard
+**molex** - general connector, old school
+**mini connector**
+**SATA** - harddrives
+**PCIe** - videocards
+
+**Modular Power Supply** - much neater solution, pick and plug in which cables to use. 
+
+#### Quick Review
+* Power supplies transform AC from wall outlet to DC for the computer
+* Standard connectors for motherboard are 20-24 pin ATX and 4-8 pin P4
+* Use Molex and SATA connectors for peripherals and drives
+
+### Mounting the Power Supply
+
+#### Quick Review
+* Mount power supply in case with four screws
+* Orient the power supply so fans draw air from the system
+* Connect motherboard primary and secondary power
+* Modular PSUs offer less cable clutter than non-modular PSUs
+
+### Choosing a Power Supply
+
+**Volts * Amps = Watts**
+
+How much wattage will you need? it depends, how much motherboard needs? what video cards? --> not quizzed in A+
+Get the wattage you need, then add a little for buffer
+
+When its hot the wattage is lower
+
+80 plus efficiency - real wattage
+
+Modular vs Saudered
+Saudered is more efficeint
+
+Standard ATX size covers almost all system
+
+#### Quick Review
+
+* Get a PSU with a little more wattage than your system needs
+* Shop for higher-efficiency power supplies
+* Modular power supplies cut down on cable clutter
+
+### Power Protection - Objective 4.5
+> Explain enviornmental impacts and appropriate controls
+
+**Spikes and Sags**
+
+Sag - Short term voltage dip
+Brownout - Intentional or unintentional drop in voltage
+
+Spikes or Surge = Provided more voltage than needed, can destroy the system
+
+Surge protector/suppressors - trip alert
+
+Cheap one is just good for one time
+
+Uninterraptable Power Supply(UPS) - UPS batteries how long they last? --> not tested in A+
+
+#### Quick Review
+* Electricity from the source is imperfect
+* Use surge protect/suppressor to proteect against spikes
+* Use UPS to protect against brownouts and blackbox
+
+### Cooling your PC
+
+Heatsink - has copper wires and fans
+if system overheats then it reboots.
+
+Bigger fans spins slower and quiter, opposite smaller fans
+
+PWM connectors - connects fans to motherboard
+
+#### Quick Review
+
+* A heat sink draws heat from electrical components
+* Fans blow heater air through and out of the system
+* Fan speed and noise can be controlled through firmware and software
+
+### Trobuleshooting Power Supplies
+
+Power supplies, takes more abuse, a burning smell is the first sign.
+slow death - often shutdowns
+
+Testing power supplies
+
+voltage drops when testing means a slow death in power supply
+
+#### Quick Review
+
+* Power supplies die fast with burning smell, smoke or both
+* Power supplies die slowly and cause intermittent problems
+* Use PSU tester or multimeter to test power supplies
+
+### Power Protection - Objective 5.2
+> Troubleshoot problems related to motherboards, RAM, CPUs and 
+
+Clear CMOS jumper - erases all system set up settigns.
+
+#### Quick Review
+
+* Incorrectly installed CPUs or RAM can make it seem like your PC is dead
+* Install core components and test before mounting into the case
+* Errors in System Setup can cause a dead PC, try clearing the CMOS jumper
+* Windows offeres memory diagnostic tools to help with potentially bad RAM
+
+
+
+
+
+
+
 
 
 
