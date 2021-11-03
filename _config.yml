@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
+title: CWCT Sys Administration
+description: Mark Soro Cybersecurity System Administration Notes and Modules
+baseurl: CWCT_System_Administration/
+github_username: m-soro
+author: Mark Soro
+image: https://i.morioh.com/3618b64471.png
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+ga_tracking: UA-172472287-2 
