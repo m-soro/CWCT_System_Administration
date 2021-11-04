@@ -1,5 +1,7 @@
 # Storage and Peripherals
 
+## 1. Mass Storage Technologies
+
 ### Introduction to mass storage
 > Given a scenario, select, install and configure storage devices
 
@@ -97,6 +99,82 @@ ISCI - has SCSI connection but in a network
 * Two modern SCSI standards are SAS(Serial Attached SCSI), iSCSI
 
 ### Boot Order
+
+When you have a lot of storage, you have to define the boot order
+
+#### Quick Review
+* When a system boots, it looks for a bootable devices
+* Its important to make sure the system looks for the correct boot devices
+* The boot order is defined in the system setup
+
+
+### 2. Implementing Mass Storage
+
+**Just a bunch of disk(JBOD)**
+
+**Redundant array of independent disks(RAID)** - speed and data redundancy
+
+* **RAID 0 or Striping** - speed but not data safety. half & half of data
+* **RAID 1 or Mirroring** - redundant data, slower
+* **RAID 5 or Parity** - minimum of three drive, good speed and redundacy of data, can lose only one drive
+* **RAID 6** - requires min of four drives(more popular than RAID 5), can lose 2 drives
+* **RAID 10 or Striping Mirrors** - Striping two mirrored pairs, you can lose one mirrored pair in each side, but not paired mirrors
+* **RAID 01** - zero plus one, two stripes and mirror them 
+
+#### Quick Review
+* RAID provides speed and/or redundacy
+* RAID 0 (striping) provides speed
+* RAID 1 (mirroring) provides redundancy
+* RAID 5 and 6 (striping with parity) provides speed and redundancy
+* RAID 5 can only lose one drive in the array; RAID 6 can lose two
+
+### Hardware RAID
+Means we have controllers that talks to hard drive that configures hard drive
+
+Hot spare - if hard drive fails, it jumps and re build the array
+hotswappable - means you dont have to turn off the computer
+
+#### Quick Review
+* Hardware RAID requires a controller to configure the RAID arrays
+* Hardware RAID has its own BIOS that comes with a special system setup to configure the RAID array
+* The completed array looks like a single drive to the operating system
+
+### Mass storage troubleshooting - Objective 5.3
+> Given a scenario, troubleshoot hard drives and RAID arrays
+
+1. Back it up
+2. Mental Reinstall
+3. Triple Check
+
+RAID not found/ RAID not working 
+RAID stopped working
+Read/Write Failure
+Slow Performance 
+Loud clicking
+Failure to boot
+Drive not recognized
+OS Not Found
+Attemps to boot to incorrect device
+Continuos Reboot 
+
+S.M.A.R.T. - if a drive starts to act up
+
+#### Quick Review
+* Always back up important data before troubleshooting mass storage
+* Use mental process of installaation to make sure all the installation steps have taken place
+* Review the many symptoms in this episode!
+
+### 3. Essential Peripherals
+
+
+
+
+
+
+
+
+
+
 
 
 
